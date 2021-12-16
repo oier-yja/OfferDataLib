@@ -1,2 +1,2 @@
-# ThaumLib
+# ThaumPluginLib
 a personal  plugin lib
