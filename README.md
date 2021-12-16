@@ -1,2 +1,2 @@
-# ThaumPluginLib
-a personal  plugin lib
+# BigDataLibLib
+a 1.12.2 plugin for spigot
